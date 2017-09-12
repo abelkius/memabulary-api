@@ -1,0 +1,8 @@
+# environmental variables
+env.js
+
+# all kinds of logs
+*.log
+
+# dependencies
+node_modules
